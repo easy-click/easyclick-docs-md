@@ -117,7 +117,7 @@ description: EasyClick全局强制性开发规则，适用所有平台（安卓�
 
 **权威来源优先级**（从高到低）：
 1. **本仓库`docs/`**（以`docs/README.md`为索引入口）
-2. **脚本函数在线总索引**：`https://ieasyclick.com/docs/zh-cn/funcs`
+2. **脚本函数在线总索引**：`https://ieasyclick.com/docs/funcs`
 3. **开发文档总站**：`https://www.ieasyclick.net/docs/`
 
 **冲突裁决**：

@@ -92,7 +92,7 @@ alldocs/
 ## 在线资源
 
 - **官网**：https://ieasyclick.com
-- **在线文档**：https://ieasyclick.com/docs/zh-cn/funcs
+- **在线文档**：https://ieasyclick.com/docs/funcs
 - **开发文档**：https://www.ieasyclick.net/docs/
 
 ## 版本信息

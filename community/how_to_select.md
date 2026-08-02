@@ -47,9 +47,9 @@ keywords:
 |----------|----------|----------|------|----------|
 | **软件方案：脱机主程序模式** | iOS 15+，无需越狱 | IPA 签名费 + 软件授权费<br/>（可搭配巨魔免签名费） | 功能最全，签名后直接使用；支持自定义输入法；游戏机也支持；爱思/sideloadly 等个人 Apple ID 免费签名也可用 | — |
 | **软件方案：代理 IPA 模式** | iOS 13+，无需越狱 | IPA 签名费 + 软件授权费<br/>（可搭配巨魔免签名费） | 功能多，签名后直接使用，无需多余配置 | — |
-| **软件方案：AI 智能体** | 新中控 10.1.0+；需连电脑 | USB 设备授权费 +（对话/写流程时）大模型 Token<br/>工作流运行不消耗对话 Token | 少写或不写代码：中文对话、拖拽工作流、多机批量 | 须绑定 **USB 设备授权**（非投屏授权），并按步骤配好代理 IPA 或 BLE/OTG<br/>→ [AI 智能体手册](/iosdocs/zh-cn/advance/ai-agent/) |
-| **硬件方案：蓝牙 + 无自动化截图** | iOS 17+<br/>无需越狱 | 蓝牙开发板费 + 软件授权费 | 风控较低 | 需配置蓝牙、上传图片快捷指令等，操作较繁琐<br/>→ [USB 蓝牙 BLE 教程](/iosdocs/zh-cn/advance/ios-usb-ble) |
-| **硬件方案：OTG + 无自动化截图** | iOS 17+<br/>无需越狱 | OTG 开发板费 + 转接头费 + 软件授权费 | 无信号干扰，风控较低 | 需配置上传图片快捷指令等，操作较繁琐<br/>→ [USB OTG-HID 教程](/iosdocs/zh-cn/advance/ios-usb-otg) |
+| **软件方案：AI 智能体** | 新中控 10.1.0+；需连电脑 | USB 设备授权费 +（对话/写流程时）大模型 Token<br/>工作流运行不消耗对话 Token | 少写或不写代码：中文对话、拖拽工作流、多机批量 | 须绑定 **USB 设备授权**（非投屏授权），并按步骤配好代理 IPA 或 BLE/OTG<br/>→ [AI 智能体手册](/iosdocs/advance/ai-agent/) |
+| **硬件方案：蓝牙 + 无自动化截图** | iOS 17+<br/>无需越狱 | 蓝牙开发板费 + 软件授权费 | 风控较低 | 需配置蓝牙、上传图片快捷指令等，操作较繁琐<br/>→ [USB 蓝牙 BLE 教程](/iosdocs/advance/ios-usb-ble) |
+| **硬件方案：OTG + 无自动化截图** | iOS 17+<br/>无需越狱 | OTG 开发板费 + 转接头费 + 软件授权费 | 无信号干扰，风控较低 | 需配置上传图片快捷指令等，操作较繁琐<br/>→ [USB OTG-HID 教程](/iosdocs/advance/ios-usb-otg) |
 
 > **按目标 App 选路径（经验提示，与安卓同口径）**  
 > - **国内主流**（微信 / QQ / 淘宝 / 抖音 / 小红书等）：更建议直接上硬件，风控通常最低。**iOS USB 优先蓝牙**；USB OTG 配置较繁琐、不作为推荐，需要 OTG 时优先 **脱机版 + OTG/蓝牙**。  
@@ -62,8 +62,8 @@ keywords:
 |----------|----------|----------|------|----------|
 | **软件方案：主程序** | iOS 15+ | 签名费 + 软件授权费<br/>（可搭配巨魔免签名费） | 单 App 方案，速度快，只需签名一个 IPA | — |
 | **软件方案：主程序 + 代理 IPA 模式** | iOS 15+ | 签名费 + 软件授权费<br/>（可搭配巨魔免签名费） | 双 App 运行在不同进程，自动化服务挂掉后可自激活恢复，支持无人值守 | — |
-| **硬件方案：主程序 + 蓝牙** | iOS 17+ | 蓝牙开发板费 + 软件授权费<br/>（主程序签名可搭配巨魔免签名费） | 功能与软件方案相当 | → [蓝牙 BLE 使用教程](/iostjdocs/zh-cn/advance/tj-ble-starter) |
-| **硬件方案：主程序 + OTG** | iOS 17+ | OTG 转接头 + 开发板费 + 软件授权费<br/>（主程序签名可搭配巨魔免签名费） | 比蓝牙更简单稳定，风控更低 | → [OTG HID 使用教程](/iostjdocs/zh-cn/advance/tj-otg-starter) |
+| **硬件方案：主程序 + 蓝牙** | iOS 17+ | 蓝牙开发板费 + 软件授权费<br/>（主程序签名可搭配巨魔免签名费） | 功能与软件方案相当 | → [蓝牙 BLE 使用教程](/iostjdocs/advance/tj-ble-starter) |
+| **硬件方案：主程序 + OTG** | iOS 17+ | OTG 转接头 + 开发板费 + 软件授权费<br/>（主程序签名可搭配巨魔免签名费） | 比蓝牙更简单稳定，风控更低 | → [OTG HID 使用教程](/iostjdocs/advance/tj-otg-starter) |
 
 ---
 
@@ -71,7 +71,7 @@ keywords:
 
 ### iOS USB 版本
 
-→ 详见 [iOS USB 投屏教程](/iosdocs/zh-cn/advance/ios-usb-screen)
+→ 详见 [iOS USB 投屏教程](/iosdocs/advance/ios-usb-screen)
 
 | 方案类型 | 系统要求 | 费用构成 | 优势 | 注意事项 |
 |----------|----------|----------|------|----------|
@@ -80,7 +80,7 @@ keywords:
 
 ### iOS 脱机版本
 
-→ 详见 [iOS 脱机无线中控投屏教程](/iostjdocs/zh-cn/funcs/tjcenter/)
+→ 详见 [iOS 脱机无线中控投屏教程](/iostjdocs/funcs/tjcenter/)
 
 | 方案类型 | 系统要求 | 费用构成 | 优势 | 注意事项 |
 |----------|----------|----------|------|----------|
@@ -133,7 +133,7 @@ Android 提供六种运行模式，可按需选择：
 | **费用构成** | 仅打包会员费 |
 | **优势** | 门槛最低，打开无障碍服务即可使用；支持节点选择器 |
 | **局限** | 截图需显式授权；功能不如代理模式全面 |
-| **文档** | [无障碍事件 API](/docs/zh-cn/funcs/acevent-api) |
+| **文档** | [无障碍事件 API](/docs/funcs/acevent-api) |
 
 #### 代理模式（推荐首选）
 
@@ -144,7 +144,7 @@ Android 提供六种运行模式，可按需选择：
 | **费用构成** | 仅打包会员费 |
 | **优势** | 功能最全；截图无需每次授权；支持 Shell 命令；支持 IME 输入法控制；支持熄屏运行 |
 | **局限** | 首次需电脑激活代理；USB 线断开后需配置 ADB WiFi 才能保持激活 |
-| **文档** | [代理事件 API](/docs/zh-cn/funcs/event-api) \| [设备激活教程](/docs/zh-cn/active-device) |
+| **文档** | [代理事件 API](/docs/funcs/event-api) \| [设备激活教程](/docs/active-device) |
 
 #### Root 模式
 
@@ -155,7 +155,7 @@ Android 提供六种运行模式，可按需选择：
 | **费用构成** | 仅打包会员费 |
 | **优势** | 可执行任意 Shell 命令，系统级控制能力强 |
 | **局限** | 不支持节点选择器；需要 root 权限 |
-| **文档** | [Shell 命令 API](/docs/zh-cn/funcs/shell-api) |
+| **文档** | [Shell 命令 API](/docs/funcs/shell-api) |
 
 #### USB-HID 模式
 
@@ -166,7 +166,7 @@ Android 提供六种运行模式，可按需选择：
 | **费用构成** | HID 硬件费（可选） + 打包会员费 |
 | **优势** | 电脑通过 USB 直连控制手机，稳定可靠；支持多主机组网，适合大批量群控 |
 | **局限** | 不支持节点选择器；Windows 需安装 libusbK/WinUSB 驱动（v4.0.0+ 支持 WinUSB）；需始终连接电脑 |
-| **文档** | [HID 事件 API](/docs/zh-cn/funcs/hid-event-api) \| [USB-HID 硬件教程](/docs/zh-cn/advance/hid) |
+| **文档** | [HID 事件 API](/docs/funcs/hid-event-api) \| [USB-HID 硬件教程](/docs/advance/hid) |
 
 #### 蓝牙 BLE 模式
 
@@ -177,7 +177,7 @@ Android 提供六种运行模式，可按需选择：
 | **费用构成** | 蓝牙开发板费（十几元） + 打包会员费 |
 | **优势** | 无线控制，风控较低；无信号干扰 |
 | **局限** | 不支持节点选择器；需配置蓝牙配对；需授予位置/悬浮窗等权限 |
-| **文档** | [BLE 事件 API](/docs/zh-cn/funcs/blehid-event-api) \| [蓝牙 BLE 硬件教程](/docs/zh-cn/advance/blehid) |
+| **文档** | [BLE 事件 API](/docs/funcs/blehid-event-api) \| [蓝牙 BLE 硬件教程](/docs/advance/blehid) |
 
 #### OTG HID 模式
 
@@ -188,7 +188,7 @@ Android 提供六种运行模式，可按需选择：
 | **费用构成** | OTG 开发板费（十几元） + 转接头费 + 打包会员费 |
 | **优势** | 最便携；无需电脑、无需网络；风控最低；比蓝牙更稳定 |
 | **局限** | 不支持节点选择器；首次使用需在手机上授权 USB 配件 |
-| **文档** | [OTG 事件 API](/docs/zh-cn/funcs/otghid-event-api) \| [OTG HID 硬件教程](/docs/zh-cn/advance/otghid) |
+| **文档** | [OTG 事件 API](/docs/funcs/otghid-event-api) \| [OTG HID 硬件教程](/docs/advance/otghid) |
 
 ---
 
@@ -196,7 +196,7 @@ Android 提供六种运行模式，可按需选择：
 
 Android 投屏由**屏幕数据传输**和**点击注入**两部分组成，可灵活组合。屏幕数据通过 USB 或 WiFi/网络传输；点击注入可选择软件方式（ADB / 无障碍 / 代理）或硬件方式（HID 设备）。
 
-> 前 10 台设备免费，超出需购买授权码。详见 [企业版安卓中控投屏](/docs/zh-cn/centerscreen/intro)。
+> 前 10 台设备免费，超出需购买授权码。详见 [企业版安卓中控投屏](/docs/centerscreen/intro)。
 
 ### 软件方案
 
@@ -217,7 +217,7 @@ Android 投屏由**屏幕数据传输**和**点击注入**两部分组成，可�
 | **蓝牙 HID 投屏** | WiFi | 蓝牙 BLE HID | ESP32-S3 / C3 开发板 | 十几元 | 无线，无信号干扰 |
 | **OTG HID 投屏** | WiFi | OTG USB HID | ESP32-S2 / S3 + OTG 转接头 | 十几元 + 转接头 | 配置最简单，响应最快，无需电脑 |
 
-> → 详见 [中控投屏教程](/docs/zh-cn/centerscreen/openscreen) | [HID Linux 宿主机](/docs/zh-cn/centerscreen/hidlinux) | [USB-HID 教程](/docs/zh-cn/advance/hid) | [蓝牙 BLE 教程](/docs/zh-cn/advance/blehid) | [OTG 教程](/docs/zh-cn/advance/otghid)
+> → 详见 [中控投屏教程](/docs/centerscreen/openscreen) | [HID Linux 宿主机](/docs/centerscreen/hidlinux) | [USB-HID 教程](/docs/advance/hid) | [蓝牙 BLE 教程](/docs/advance/blehid) | [OTG 教程](/docs/advance/otghid)
 
 ---
 
@@ -227,8 +227,8 @@ Android 投屏由**屏幕数据传输**和**点击注入**两部分组成，可�
 
 | 方案类型 | 系统 / 环境要求 | 费用构成 | 优势 | 注意事项 |
 |----------|-----------------|----------|------|----------|
-| **默认方案（USB 有线 / WiFi 无线）** | 鸿蒙 Next；电脑与手机同网或 USB | 按文档与授权说明 | 端侧无需安装软件；可有线调试，也可开启无线调试后拔线使用 | 无线调试需在开发者选项中开启，中控「扫描无线设备」输入 IP:端口；也可先 USB 点「开启无线调试」再改无线<br/>→ [链接手机（USB / 无线）](/hmdocs/zh-cn/tools/installcenter) \| [鸿蒙文档首页](/hmdocs/) |
-| **硬件方案：USB 蓝牙 BLE** | 鸿蒙 Next USB 中控 **3.2.0+**；ESP32-C3 / S3 开发板 | 蓝牙开发板费（自行采购）+ 软件侧按授权 | 蓝牙 HID 注入；可与 HDC 自动化 / 投屏 / USB HID **组合或单独**使用 | 须刷**鸿蒙 USB 蓝牙固件**（勿刷 iOS 专用固件）；中控绑定 UDID ↔ bleMac 后手机配对；开发板侧也可串口或 WiFi 通信<br/>→ [蓝牙 BLE 教程](/hmdocs/zh-cn/advance/hm-usb-ble) \| [蓝牙 BLE 事件 API](/hmdocs/zh-cn/funcs/ble-event-api) |
+| **默认方案（USB 有线 / WiFi 无线）** | 鸿蒙 Next；电脑与手机同网或 USB | 按文档与授权说明 | 端侧无需安装软件；可有线调试，也可开启无线调试后拔线使用 | 无线调试需在开发者选项中开启，中控「扫描无线设备」输入 IP:端口；也可先 USB 点「开启无线调试」再改无线<br/>→ [链接手机（USB / 无线）](/hmdocs/tools/installcenter) \| [鸿蒙文档首页](/hmdocs/) |
+| **硬件方案：USB 蓝牙 BLE** | 鸿蒙 Next USB 中控 **3.2.0+**；ESP32-C3 / S3 开发板 | 蓝牙开发板费（自行采购）+ 软件侧按授权 | 蓝牙 HID 注入；可与 HDC 自动化 / 投屏 / USB HID **组合或单独**使用 | 须刷**鸿蒙 USB 蓝牙固件**（勿刷 iOS 专用固件）；中控绑定 UDID ↔ bleMac 后手机配对；开发板侧也可串口或 WiFi 通信<br/>→ [蓝牙 BLE 教程](/hmdocs/advance/hm-usb-ble) \| [蓝牙 BLE 事件 API](/hmdocs/funcs/ble-event-api) |
 
 > **选型提示**  
 > - 一般业务先走 **默认连接**（USB 或 WiFi 无线调试）即可。  

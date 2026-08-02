@@ -386,10 +386,10 @@ ec-ios-cli ocr-screen -m app
 
 | 平台 | 文档路径 | 在线文档 |
 |------|---------|---------|
-| **安卓** | `docs/funcs/` | https://ieasyclick.com/docs/zh-cn/funcs |
-| **iOS USB版** | `iosdocs/funcs/` | https://ieasyclick.com/docs/zh-cn/funcs |
-| **iOS 脱机版** | `iostjdocs/funcs/` | https://ieasyclick.com/docs/zh-cn/funcs |
-| **鸿蒙** | `hmdocs/funcs/` | https://ieasyclick.com/docs/zh-cn/funcs |
+| **安卓** | `docs/funcs/` | https://ieasyclick.com/docs/funcs |
+| **iOS USB版** | `iosdocs/funcs/` | https://ieasyclick.com/docs/funcs |
+| **iOS 脱机版** | `iostjdocs/funcs/` | https://ieasyclick.com/docs/funcs |
+| **鸿蒙** | `hmdocs/funcs/` | https://ieasyclick.com/docs/funcs |
 
 ---
 

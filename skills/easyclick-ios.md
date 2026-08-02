@@ -1267,4 +1267,4 @@ iostj_project/
 
 - USB版文档：`iosdocs/funcs/`
 - 脱机版文档：`iostjdocs/funcs/`
-- 在线文档：https://ieasyclick.com/docs/zh-cn/funcs
+- 在线文档：https://ieasyclick.com/docs/funcs

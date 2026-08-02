@@ -28,9 +28,9 @@ keywords:
 :::tip 新中控 10.2.0+：AI 智能体
 
 在新中控点击 **「AI 智能体」**，即可 **用中文对话驱动已连 iPhone**，或用 **可视化工作流** 批量执行自动化。  
-**跑已保存的工作流不消耗大模型 Token。** 使用前请先阅读 **[环境与授权](./zh-cn/advance/ai-agent/prerequisites)**（USB 设备授权 + 自动化 IPA 或 蓝牙环境）。
+**跑已保存的工作流不消耗大模型 Token。** 使用前请先阅读 **[环境与授权](./advance/ai-agent/prerequisites)**（USB 设备授权 + 自动化 IPA 或 蓝牙环境）。
 
-→ [AI 智能体使用手册](./zh-cn/advance/ai-agent) · [快速开始](./zh-cn/advance/ai-agent/getting-started) · [10.2.0 更新说明](./zh-cn/changelog)
+→ [AI 智能体使用手册](./advance/ai-agent) · [快速开始](./advance/ai-agent/getting-started) · [10.2.0 更新说明](./changelog)
 
 :::
 
@@ -44,9 +44,9 @@ keywords:
 
 | 方式 | 适合谁 | 从哪里开始 |
 |------|--------|------------|
-| **AI 智能体** | 不写代码；运维、测试、批量操作 | [环境与授权](./zh-cn/advance/ai-agent/prerequisites) → [快速开始](./zh-cn/advance/ai-agent/getting-started) |
-| **EC 脚本开发** | 开发者；复杂业务逻辑 | [第一个工程](./zh-cn/firstproject) → [脚本函数](./zh-cn/funcs) |
-| **AI 辅助写脚本** | 使用 Cursor / IDEA 的开发者 | [与 AI 结合辅助编程](./zh-cn/advance/ios-usb-ai) |
+| **AI 智能体** | 不写代码；运维、测试、批量操作 | [环境与授权](./advance/ai-agent/prerequisites) → [快速开始](./advance/ai-agent/getting-started) |
+| **EC 脚本开发** | 开发者；复杂业务逻辑 | [第一个工程](./firstproject) → [脚本函数](./funcs) |
+| **AI 辅助写脚本** | 使用 Cursor / IDEA 的开发者 | [与 AI 结合辅助编程](./advance/ios-usb-ai) |
 
 :::info AI 智能体 ≠ Cursor 写脚本
 
@@ -59,12 +59,12 @@ keywords:
 
 | 主题 | 文档 |
 |------|------|
-| AI 智能体手册 | [概述与目录](./zh-cn/advance/ai-agent) |
-| **常见问题速查** | [授权 / 大模型 / Token（折叠）](./zh-cn/advance/ai-agent/faq) |
-| USB 授权与环境 | [环境与授权](./zh-cn/advance/ai-agent/prerequisites) |
-| 签名 IPA / 开自动化 | [USB 投屏教程 · 签名 ipa](./zh-cn/advance/ios-usb-screen#签名ipa) |
-| 蓝牙 BLE / OTG | [蓝牙 BLE 教程](./zh-cn/advance/ios-usb-ble) · [OTG 教程](./zh-cn/advance/ios-usb-otg) |
-| 界面预览 | [AI 智能体界面预览](./zh-cn/advance/ai-agent/screenshots) |
+| AI 智能体手册 | [概述与目录](./advance/ai-agent) |
+| **常见问题速查** | [授权 / 大模型 / Token（折叠）](./advance/ai-agent/faq) |
+| USB 授权与环境 | [环境与授权](./advance/ai-agent/prerequisites) |
+| 签名 IPA / 开自动化 | [USB 投屏教程 · 签名 ipa](./advance/ios-usb-screen#签名ipa) |
+| 蓝牙 BLE / OTG | [蓝牙 BLE 教程](./advance/ios-usb-ble) · [OTG 教程](./advance/ios-usb-otg) |
+| 界面预览 | [AI 智能体界面预览](./advance/ai-agent/screenshots) |
 
 ## 常见问题（AI 智能体）
 
@@ -73,7 +73,7 @@ keywords:
 
 <div class="ec-faq-body">
 
-需要 **USB 设备授权**（跑脚本、AI 工作流），不是 **USB 投屏授权**。绑定步骤见 [环境与授权](./zh-cn/advance/ai-agent/prerequisites) · [购买授权](./zh-cn/advance/ios-usb-screen#购买授权)。
+需要 **USB 设备授权**（跑脚本、AI 工作流），不是 **USB 投屏授权**。绑定步骤见 [环境与授权](./advance/ai-agent/prerequisites) · [购买授权](./advance/ios-usb-screen#购买授权)。
 
 </div>
 </details>
@@ -83,7 +83,7 @@ keywords:
 
 <div class="ec-faq-body">
 
-**AI 对话**、**AI 写流程** 需要；**运行 / 试跑已保存工作流** 不需要。见 [配置与数据目录](./zh-cn/advance/ai-agent/config)。
+**AI 对话**、**AI 写流程** 需要；**运行 / 试跑已保存工作流** 不需要。见 [配置与数据目录](./advance/ai-agent/config)。
 
 </div>
 </details>
@@ -93,7 +93,7 @@ keywords:
 
 <div class="ec-faq-body">
 
-**不会。** 试跑与批量运行不消耗对话 LLM Token；仅 AI 对话与 AI 写流程会计费。→ [完整说明](./zh-cn/advance/ai-agent/faq)
+**不会。** 试跑与批量运行不消耗对话 LLM Token；仅 AI 对话与 AI 写流程会计费。→ [完整说明](./advance/ai-agent/faq)
 
 </div>
 </details>
@@ -102,7 +102,7 @@ keywords:
 
 <img src="/index/ai-agent/cover.png" alt="AI 智能体" width="640" />
 
-对话 · 工作流编辑器 · 任务面板等截图见 **[界面预览](./zh-cn/advance/ai-agent/screenshots)**。
+对话 · 工作流编辑器 · 任务面板等截图见 **[界面预览](./advance/ai-agent/screenshots)**。
 
 ## iOS USB版产品特性
 

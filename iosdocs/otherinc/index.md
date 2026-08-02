@@ -1,0 +1,23 @@
+---
+keywords:
+  - iOS17
+  - iosdocs
+  - zh
+  - cn
+  - otherinc
+  - ios17
+  - EasyClick
+  - 手机自动化
+  - 自动化测试
+  - 脚本开发
+  - 安卓自动化
+  - iOS自动化
+  - 鸿蒙Next
+  - 远程投屏
+  - OCR
+  - PPOCR
+  - YOLO
+  - Cursor
+---
+# 其他文档说明
+- [iOS17以上使用说明文档](/iosdocs/otherinc/ios17)

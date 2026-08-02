@@ -251,7 +251,7 @@ $EC test-image -m app -s /tmp/s.png -F findImage -g 0,0,0,0 -l 1 -E 0.7 -H 0.8
 ### 权威来源优先级（从高到低）
 
 1. **本仓库 `docs/` 目录** - 以 `docs/funcs/index.md` 为索引入口
-2. **脚本函数在线总索引**：`https://ieasyclick.com/docs/zh-cn/funcs`
+2. **脚本函数在线总索引**：`https://ieasyclick.com/docs/funcs`
 3. **开发文档总站**：`https://www.ieasyclick.net/docs/`
 
 ### 核心文档路径
@@ -1057,4 +1057,4 @@ thread.stopThread(threadId);
 - 完整API文档：`docs/funcs/`
 - UI编写规范：`docs/funcs/ui/index.md`
 - CLI工具：`ec_work_config/android/bin/ec-android-cli -h`
-- 在线文档：https://ieasyclick.com/docs/zh-cn/funcs
+- 在线文档：https://ieasyclick.com/docs/funcs

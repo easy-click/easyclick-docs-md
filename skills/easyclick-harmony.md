@@ -89,7 +89,7 @@ hm_project/
 ### 权威来源优先级
 
 1. **本仓库 `hmdocs/` 目录** - 鸿蒙专用文档
-2. **在线文档**：`https://ieasyclick.com/docs/zh-cn/funcs`
+2. **在线文档**：`https://ieasyclick.com/docs/funcs`
 
 ### 核心文档路径
 
@@ -1016,5 +1016,5 @@ sleep(1000);
 ## 参考文档
 
 - 鸿蒙文档目录：`hmdocs/funcs/`
-- 在线文档：https://ieasyclick.com/docs/zh-cn/funcs
-- HID驱动教程：https://ieasyclick.com/docs/docs/zh-cn/advance/hid
+- 在线文档：https://ieasyclick.com/docs/funcs
+- HID驱动教程：https://ieasyclick.com/docs/docs/advance/hid
