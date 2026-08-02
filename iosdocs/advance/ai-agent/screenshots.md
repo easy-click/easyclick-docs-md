@@ -61,5 +61,5 @@ flowchart LR
 
 ## 相关文档
 
-- [概述与目录](./index.md)
+- [概述与目录](/iosdocs/advance/ai-agent/)
 - [常见问题](./troubleshooting)

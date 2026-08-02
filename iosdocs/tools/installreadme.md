@@ -45,18 +45,12 @@ keywords:
 	- 构建于IDEA基础上的开发插件
 	- 开发插件支持windows，macos等系统
 	- IDEA 最新 2026.2 及以上版本，无需激活 IDEA，直接安装开发插件即可使用
-
-桥接程序[非必选]:
-	- 用于链接ios设备的程序,通过网络组网方式,拓展局域网中的设备到主控上,实现一台主控管理多台分控电脑
-	- 可以部署到Windows，MacOS，Linux，树莓派、单片机等设备上
-	- 也可用中控-高级组网功能,桥接主要为减小软件体积和适配多系统
 ```
 
 
 
 ## 安装步骤
-- [1、安装代理ipa](/iosdocs/tools/signagent.md)
-- [2、安装中控程序](/iosdocs/tools/installcenter.md)
-- [3、安装开发插件](/iosdocs/tools/installdevtools.md)
-- [4、安装桥接程序[非必选]](/iosdocs/tools/installbridge.md)
+- [1、安装代理ipa](/iosdocs/tools/signagent)
+- [2、安装中控程序](/iosdocs/tools/installcenter)
+- [3、安装开发插件](/iosdocs/tools/installdevtools)
 

@@ -118,7 +118,7 @@ USB/WiFi 会话建立、设备发现、连接偏好与健康检查
 
 **文字输入**：`agentInputText`
 
-**节点与截图**：`agentSetFetchNodeParam`、`agentDumpXml`、`agentCaptureFullScreen`、`agentCaptureFullScreenEx`（`agentDumpXml` 配合 [lockNodeFromXml](./node-api.md#locknodefromxml-从-xml-锁定节点) 可在 PC 侧即可正常使用getNodeInfo等函数）
+**节点与截图**：`agentSetFetchNodeParam`、`agentDumpXml`、`agentCaptureFullScreen`、`agentCaptureFullScreenEx`（`agentDumpXml` 配合 [lockNodeFromXml](./node-api#locknodefromxml-从-xml-锁定节点) 可在 PC 侧即可正常使用getNodeInfo等函数）
 
 ### 3、系统录屏（5 个）
 
@@ -740,7 +740,7 @@ main();
 
 ### 节点与截图
 
-WiFi 场景下若要用 [节点函数](./node-api.md) 的选择器（`label().getNodeInfo()` 等），典型流程为：`agentSetFetchNodeParam` → `agentDumpXml` → `lockNodeFromXml` → 选节点查找。远程在手机端匹配可改用 [nodeAgent](./node-agent-api.md)。
+WiFi 场景下若要用 [节点函数](./node-api) 的选择器（`label().getNodeInfo()` 等），典型流程为：`agentSetFetchNodeParam` → `agentDumpXml` → `lockNodeFromXml` → 选节点查找。远程在手机端匹配可改用 [nodeAgent](./node-agent-api)。
 
 ### agentSetFetchNodeParam
 
@@ -769,7 +769,7 @@ main();
 * 将元素节点导出为 XML（对应 agentEvent.dumpXml）
 * 适配EC iOS USB版本9.39.0+
 * 经 Aux HTTP 转发至手机 Agent 拉取 XML，返回字符串；**不会**自动写入 PC 侧节点缓存
-* 若要继续用 [节点函数](./node-api.md) 的选择器（`label().getNodeInfo()` 等），需配合 [lockNodeFromXml](./node-api.md#locknodefromxml-从-xml-锁定节点) 注入后再查找
+* 若要继续用 [节点函数](./node-api) 的选择器（`label().getNodeInfo()` 等），需配合 [lockNodeFromXml](./node-api#locknodefromxml-从-xml-锁定节点) 注入后再查找
 * @returns `{string}` XML 字符串；失败时返回空字符串
 
 ```javascript showLineNumbers
@@ -803,7 +803,7 @@ function main() {
 main();
 ```
 
-完整说明见 [节点函数 - lockNodeFromXml](./node-api.md#locknodefromxml-从-xml-锁定节点)；对象形式可用 `agentEvent.lockNodeFromXml(xml)`。远程在手机端选节点见 [nodeAgent](./node-agent-api.md)。
+完整说明见 [节点函数 - lockNodeFromXml](./node-api#locknodefromxml-从-xml-锁定节点)；对象形式可用 `agentEvent.lockNodeFromXml(xml)`。远程在手机端选节点见 [nodeAgent](./node-agent-api)。
 
 ### agentCaptureFullScreen
 
@@ -2554,9 +2554,9 @@ main();
 
 ## 相关文档
 
-- [蓝牙 BLE 函数](/iosdocs/funcs/ble-event-api.md)
-- [OTG HID 函数](/iosdocs/funcs/otg-event-api.md)
-- [输入法函数](/iosdocs/funcs/ime-api.md)
-- [设备函数](/iosdocs/funcs/device-api.md)
-- [常用工具函数](/iosdocs/funcs/utils-api.md)
-- [iOS USB 投屏教程](/iosdocs/advance/ios-usb-screen.md)
+- [蓝牙 BLE 函数](/iosdocs/funcs/ble-event-api)
+- [OTG HID 函数](/iosdocs/funcs/otg-event-api)
+- [输入法函数](/iosdocs/funcs/ime-api)
+- [设备函数](/iosdocs/funcs/device-api)
+- [常用工具函数](/iosdocs/funcs/utils-api)
+- [iOS USB 投屏教程](/iosdocs/advance/ios-usb-screen)

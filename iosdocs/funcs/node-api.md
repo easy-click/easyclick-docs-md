@@ -41,7 +41,7 @@ keywords:
 | `lockNodeFromXml` | WiFi + Aux | 将 `auxEvent.agentDumpXml()` 等外部 XML 注入 PC 缓存并锁定（适配 9.39.0+） |
 | `releaseNode` | 通用 | 释放锁定，恢复为界面刷新后重新拉取 |
 
-WiFi 场景完整流程见 [lockNodeFromXml](#locknodefromxml-从-xml-锁定节点)；对象形式可用 `agentEvent.lockNodeFromXml(xml)`，见 [代理事件](./event-api.md)。
+WiFi 场景完整流程见 [lockNodeFromXml](#locknodefromxml-从-xml-锁定节点)；对象形式可用 `agentEvent.lockNodeFromXml(xml)`，见 [代理事件](./event-api)。
 
 ###                          
 
@@ -89,9 +89,9 @@ main();
 
 ## lockNodeFromXml 从 XML 锁定节点
 
-* 将外部 XML 字符串注入 PC 侧节点缓存并锁定，可与 [auxEvent.agentDumpXml](./aux-event-api.md#agentdumpxml) 配合，再继续使用本模块的选择器（`label().getNodeInfo()` 等）
+* 将外部 XML 字符串注入 PC 侧节点缓存并锁定，可与 [auxEvent.agentDumpXml](./aux-event-api#agentdumpxml) 配合，再继续使用本模块的选择器（`label().getNodeInfo()` 等）
 * 适配版本 EC iOS 中控 9.39.0+
-* 对象形式：`agentEvent.lockNodeFromXml(xml)`，见 [代理事件 - lockNodeFromXml](./event-api.md#agenteventlocknodefromxml-从-xml-锁定节点)
+* 对象形式：`agentEvent.lockNodeFromXml(xml)`，见 [代理事件 - lockNodeFromXml](./event-api#agenteventlocknodefromxml-从-xml-锁定节点)
 * @param xml XML 字符串（如 `auxEvent.agentDumpXml()` 的返回值）
 * @return `{bool}` true 成功，false 失败
 

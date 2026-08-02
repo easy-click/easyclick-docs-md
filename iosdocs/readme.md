@@ -25,6 +25,10 @@ keywords:
 
 # iOS USB版本产品介绍
 
+:::info 一句话摘要（TL;DR）
+EasyClick iOS USB 版是**免越狱**真机自动化：可写 EC 脚本，或在新中控用 **AI 智能体**（中文对话 / 可视化工作流）批量操作 iPhone；支持 iOS 12–27+。跑已保存工作流**不消耗**大模型 Token。先读 [环境与授权](./advance/ai-agent/prerequisites)，再 [快速开始](./advance/ai-agent/getting-started)。
+:::
+
 :::tip 新中控 10.2.0+：AI 智能体
 
 在新中控点击 **「AI 智能体」**，即可 **用中文对话驱动已连 iPhone**，或用 **可视化工作流** 批量执行自动化。  

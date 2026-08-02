@@ -35,4 +35,4 @@ keywords:
 * ......
 
 
-下一章: 2分钟完成一个自动化点击App，[点击迅速入门](/docs/getting-start.md)
+下一章: 2分钟完成一个自动化点击App，[点击迅速入门](/docs/getting-start)

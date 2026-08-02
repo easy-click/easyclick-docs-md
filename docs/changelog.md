@@ -2,7 +2,6 @@
 title: EasyClick安卓文档_安卓手机自动化脚本_版本更新记录
 hide_title: false
 hide_table_of_contents: false
-sidebar_label: 版本更新记录
 description: 'EasyClick手机自动化脚本更新记录,记录EasyClick软件更新的每个版本功能特性'
 keywords:
   - EasyClick

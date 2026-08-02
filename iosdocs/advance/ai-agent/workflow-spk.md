@@ -77,7 +77,7 @@ keywords:
 
 ## 相关文档
 
-- [工作流 .spl 授权](./workflow-spk-license.md) — 签发授权与使用授权
-- [工作流编辑器](./workflow-editor.md)
-- [AI 对话](./ai-chat.md) — 运行 .spk 流程
-- [常见问题](./troubleshooting.md)
+- [工作流 .spl 授权](./workflow-spk-license) — 签发授权与使用授权
+- [工作流编辑器](./workflow-editor)
+- [AI 对话](./ai-chat) — 运行 .spk 流程
+- [常见问题](./troubleshooting)

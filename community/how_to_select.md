@@ -29,6 +29,10 @@ keywords:
 
 ## 技术方案选择
 
+:::info 一句话摘要（TL;DR）
+按平台与场景选 EasyClick 方案：**安卓**走免 root 脚本/中控；**iOS** 分 USB 脚本、AI 智能体、脱机版；**鸿蒙 Next** 走 USB 文档线。不确定时先用交互选型：[技术选型页](/selector)，或看 [产品全系](/products)。
+:::
+
 > 想按业务快速匹配？先用交互助手：[技术选型页 `/selector`](/selector)。也可用宣传页总览全系：[产品全系方案 `/products`](/products)。
 
 ## iOS 技术方案选择一览
