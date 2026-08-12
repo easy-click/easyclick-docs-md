@@ -1,5 +1,5 @@
 ---
-title: EasyClick iOS USB — Product intro
+title: EasyClick iOS USB — Apple multi-device control · Product intro
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: iOS USB intro
@@ -10,6 +10,8 @@ keywords:
  - EasyClick
  - iOS automation
  - no jailbreak
+ - Apple multi-device control
+ - iPhone farm control
  - AI Agent
  - workflow
  - USB

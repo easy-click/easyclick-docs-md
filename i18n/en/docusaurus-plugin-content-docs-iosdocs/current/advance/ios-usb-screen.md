@@ -60,6 +60,7 @@ keywords:
 - Unpack the developer disk image
  - Extract **DeveloperImage12.4-26.x.zip** into **ioscenter/bridgebin/config/DeveloperDiskImage**. Layout should look like:
  - <img src="/iosimg/screen/1.png" alt="" style={{zoom:'20%'}} />
+- If there is no disk image for your iOS version (for example no 27.0 image), copy an existing one such as 26.5, rename the folder to 27.0, then restart the control center — it will flash the image automatically
 
 ### Sign IPA
 - **On iOS 15+, see the special note at the top of this chapter — use the standalone main app v7.2.0+ as the automation service IPA for more features**

@@ -1,15 +1,16 @@
 ---
-title: EasyClick Android — Cloud control install
+title: EasyClick Android — Cloud control system · Install
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: Install cloud control
 description: >-
- EasyClick cloud control manages scripts and tasks.
+ EasyClick cloud control system manages scripts and tasks.
  Install is simple: use BT Panel to install MySQL and Redis, copy the cloud control program into the site directory, update MySQL config, and start the ecloud binary
 keywords:
  - EasyClick
  - mobile automation scripts
  - automation software
+ - cloud control system
  - cloud control install
  - Douyin cloud control
  - Kuaishou cloud control

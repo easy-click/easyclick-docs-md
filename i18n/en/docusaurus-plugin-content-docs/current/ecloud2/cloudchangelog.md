@@ -9,9 +9,12 @@ keywords:
  - mobile automation scripts
  - automation software
  - cloud control platform
+ - cloud control system
  - Douyin cloud control
  - Kuaishou cloud control
  - game cloud control
+ - 6.0.0
+ - 5.18.0
  - 5.16.0
  - 5.15.0
  - 5.13.0
@@ -29,6 +32,17 @@ keywords:
 
 ## Latest release
 
+### 6.0.0
+Released: 2026-08-07
+
+```text
+- Redesigned the cloud control system UI
+- Security fixes
+- General improvements
+```
+
+## Previous releases
+
 ### 5.18.0
 Released: 2026-04-30
 
@@ -38,8 +52,6 @@ Released: 2026-04-30
     - See the Open API docs
 - General improvements
 ```
-
-## Previous releases
 
 ### 5.17.0
 Released: 2025-10-18

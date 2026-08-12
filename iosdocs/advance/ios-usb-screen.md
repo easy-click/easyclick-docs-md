@@ -60,7 +60,7 @@ keywords:
 - 解压镜像
   - 将下载的**开发者镜像-DeveloperImage12.4-26.x.zip**,解压到**ioscenter/bridgebin/config/DeveloperDiskImage**文件夹内，目录结构内容如下
   - <img src="/iosimg/screen/1.png" alt="" style={{zoom:'20%'}} />
-
+- 找不到对应的镜像文件版本，例如没有27.0的镜像，可以复制一份26.5的，改名为27.0，然后再次重启中控会自动刷入镜像
 ### 签名ipa
 - **如果是iOS15+以上的系统，直接看本章开头的特别说明，直接使用脱机版本的主程序v7.2.0+版本作为自动化服务ipa，获得更多功能和体验**
 - IPA是需要安装到手机的，需要自己签名

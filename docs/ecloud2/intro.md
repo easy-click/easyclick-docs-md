@@ -1,14 +1,15 @@
 ---
-title: EasyClick安卓文档_安卓手机自动化脚本_云控平台说明
+title: EasyClick安卓文档_安卓手机自动化脚本_云控系统_云控平台说明
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: 云控平台说明
-description: 'EasyClick 云控平台专门用于用于管理脚本、任务、数据的web平台,可以进行远程投屏设备，异地组网，远程操作设备'
+description: 'EasyClick 云控系统（云控平台）专门用于管理脚本、任务、数据的web平台,可以进行远程投屏设备，异地组网，远程操作设备'
 keywords:
   - EasyClick
   - 手机自动化脚本
   - 自动化软件
   - 云控平台
+  - 云控系统
   - 抖音云控
   - 快手云控
   - 游戏云控
@@ -29,6 +30,9 @@ keywords:
 
 :::tip
 云控是运行在服务器端的，优势是可以链接很多设备，通过网页进行管理设备，和群控有很大的区别
+- 演示地址: http://ecloud.devicefarm.cn/
+- 演示站点: 用户名和密码: test123/test123
+- 演示站点无法进行增删改查操作
 :::
 
 ## 云控平台

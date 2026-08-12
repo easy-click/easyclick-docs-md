@@ -1,14 +1,15 @@
 ---
-title: EasyClick Android — Cloud control platform overview
+title: EasyClick Android — Cloud control system · Platform overview
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: Cloud control platform overview
-description: 'EasyClick cloud control — web platform for scripts, tasks, and data; remote mirroring, cross-site networking, remote device control'
+description: 'EasyClick cloud control system — web platform for scripts, tasks, and data; remote mirroring, cross-site networking, remote device control'
 keywords:
  - EasyClick
  - mobile automation scripts
  - automation software
  - cloud control platform
+ - cloud control system
  - Douyin cloud control
  - Kuaishou cloud control
  - game cloud control
@@ -28,7 +29,10 @@ keywords:
 # Cloud control platform overview
 
 :::tip
-Cloud control runs on the server — manage many devices from the web. This is different from on-device group control.
+Cloud control runs on the server — manage many devices from the web. This is different from on-device group control (local multi-device control).
+- Demo: http://ecloud.devicefarm.cn/
+- Demo account: username / password `test123` / `test123`
+- The demo site does not allow create / update / delete operations
 :::
 
 ## Cloud control platform

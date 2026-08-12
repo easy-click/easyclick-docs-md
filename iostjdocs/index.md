@@ -1,5 +1,5 @@
 ---
-title: EasyClick_iOS免越狱_免硬件_iOS脚本_产品介绍_EasyClick自动化脚本编写
+title: EasyClick_iOS免越狱_免硬件_苹果群控_iOS脚本_产品介绍_EasyClick自动化脚本编写
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: iOS 脱机版产品介绍
@@ -12,6 +12,7 @@ keywords:
   - 苹果手机脚本
   - iOS免越狱
   - iOS免硬件
+  - 苹果群控
   - 苹果手机免越狱
   - ios手机脚本编写
   - ios手机投屏

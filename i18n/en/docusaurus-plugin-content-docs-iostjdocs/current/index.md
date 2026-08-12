@@ -1,5 +1,5 @@
 ---
-title: EasyClick iOS Standalone — Product intro
+title: EasyClick iOS Standalone — Apple multi-device control · Product intro
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: iOS standalone intro
@@ -11,6 +11,8 @@ keywords:
  - iOS automation
  - standalone
  - no jailbreak
+ - Apple multi-device control
+ - iPhone farm control
  - IPA
  - BLE
  - OTG

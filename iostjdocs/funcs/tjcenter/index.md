@@ -1,11 +1,12 @@
 ---
-title: 脱机无线中控投屏教程
-description: 'EasyClick 自动化脚本 iOS脚本,iOS免越狱,iOS免硬件 iOS免越狱 脚本函数 资源下载'
+title: EasyClick_苹果群控_脱机无线中控投屏教程
+description: 'EasyClick 自动化脚本 iOS脚本,iOS免越狱,iOS免硬件,苹果群控,脱机无线中控投屏'
 keywords:
   - EasyClick自动化脚本
   - iOS脚本
   - iOS免越狱
   - iOS免硬件
+  - 苹果群控
   - 脚本函数
   - 资源下载
   - OTG

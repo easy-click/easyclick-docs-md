@@ -14,12 +14,14 @@ keywords:
  - BLE
  - OCR
  - cloud control
+ - cloud control system
+ - Apple multi-device control
 ---
 
 # Android product highlights
 
 :::info TL;DR
-EasyClick Android is a **no-root** real-device automation platform: write EC scripts in IDEA, run via accessibility / BLE, and **package locally**. Suited for games, office work, and QA. Next: [First project](./getting-start).
+EasyClick Android is a **no-root** real-device automation platform: write EC scripts in IDEA, run via accessibility / BLE, and **package locally**; connect to the **cloud control system** for remote fleets. Suited for games, office work, and QA. Next: [First project](./getting-start).
 :::
 
 - Android automation scripting for games, office workflows, QA, and other repetitive tasks

@@ -1,11 +1,13 @@
 ---
-title: Standalone Wireless Control Center Screen Mirroring Guide
-description: 'EasyClick automation scripts — iOS scripts, iOS no jailbreak, no hardware, script functions, resource download'
+title: EasyClick Apple multi-device control — Standalone wireless center mirroring
+description: 'EasyClick automation scripts — iOS scripts, iOS no jailbreak, no hardware, Apple multi-device control, standalone wireless center mirroring'
 keywords:
  - EasyClick automation scripts
  - iOS scripts
  - iOS no jailbreak
  - iOS no hardware
+ - Apple multi-device control
+ - iPhone farm control
  - script functions
  - resource download
  - OTG

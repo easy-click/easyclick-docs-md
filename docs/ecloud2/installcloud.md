@@ -1,15 +1,16 @@
 ---
-title: EasyClick安卓文档_安卓手机自动化脚本_云控版本更新记录
+title: EasyClick安卓文档_安卓手机自动化脚本_云控系统_云控安装
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: 云控安装
 description: >-
-  EasyClick 云控平台专门用于用于管理脚本、任务,
+  EasyClick 云控系统专门用于管理脚本、任务,
   安装云控非常简单，使用宝塔一键安装mysql，redis套件，然后复制云控程序到网站目录，更改mysql配置，启动ecloud二进制文件即可
 keywords:
   - EasyClick
   - 手机自动化脚本
   - 自动化软件
+  - 云控系统
   - 云控平台安装
   - 抖音云控
   - 快手云控

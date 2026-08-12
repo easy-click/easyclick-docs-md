@@ -1,15 +1,16 @@
 ---
-title: EasyClick cloud control — Open API
+title: EasyClick cloud control system — Open API
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: Cloud Open API
 description: >-
- EasyClick cloud control manages scripts and tasks.
+ EasyClick cloud control system Open API for scripts, tasks, and device integration.
  Install is simple: use BT Panel for MySQL/Redis, copy the program into the site directory, update MySQL config, and start the ecloud binary
 keywords:
  - EasyClick
  - mobile automation scripts
  - automation software
+ - cloud control system
  - cloud control install
  - Douyin cloud control
  - Kuaishou cloud control

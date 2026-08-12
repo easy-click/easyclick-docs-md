@@ -1,5 +1,5 @@
 ---
-title: EasyClick_iOS免越狱自动化脚本_产品介绍_EasyClick自动化脚本编写
+title: EasyClick_iOS免越狱自动化脚本_苹果群控_产品介绍_EasyClick自动化脚本编写
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: iOS USB版本产品介绍
@@ -9,6 +9,7 @@ description: >-
 keywords:
   - EasyClick苹果手机自动化脚本
   - iOS免越狱
+  - 苹果群控
   - AI智能体
   - 工作流
   - 自然语言自动化

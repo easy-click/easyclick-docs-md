@@ -12,6 +12,8 @@ keywords:
  - USB
  - IPA
  - iOS15
+ - Apple multi-device control
+ - cloud control system
  - img
  - src
  - iosimg
@@ -30,7 +32,7 @@ keywords:
 ## Technical solution selection
 
 :::info TL;DR
-Pick an EasyClick path by platform and use case: **Android** (no-root scripts / control center), **iOS** (USB scripting, AI Agent, or standalone), **HarmonyOS Next** (USB docs). Unsure? Use the interactive [Tech selector](/selector) or browse [All products](/products).
+Pick an EasyClick path by platform and use case: **Android** (no-root scripts / control center), **iOS** (USB scripting, AI Agent, or standalone Apple multi-device control), **HarmonyOS Next** (USB docs); use the **cloud control system** for large remote fleets. Unsure? Use the interactive [Tech selector](/selector) or browse [All products](/products).
 :::
 
 > Want to match by use case quickly? Try the interactive assistant: [Tech selector `/selector`](/selector). Or see the full product lineup: [All products `/products`](/products).
